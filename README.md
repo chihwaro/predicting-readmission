@@ -1,2 +1,3 @@
-# predicting-readmission
-Group project completed as part of a Data Science/Big Data course in the Master of Science in Information Systems program at San Diego State University
+# Predicting and Reducing Diabetes-Related Readmission Risk: A Big Data Analytics Approach
+
+This project aims to develop a predictive model that determines which patients are at an increased risk for unplanned readmissions after a medical encounter. A dataset covering 10 years of diabetest-related patient data from 130 hospitals was sourced from the UCI Machine Learning Repository and several different statistical models were generated and tested. Included in this repository is the complete R code for the porject as well as a report detailing the process of constructing and validating the models.
